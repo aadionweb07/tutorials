@@ -7,14 +7,14 @@
   #include<iostream>
  using namespace std;
  int main(){
-    int a,b;
-    cin>>a;
+    int x,y;
+    cin>>x;
     int count=1;
  
     int i=1;
-    while(i<=a){
+    while(i<=x){
         int j=1;
-        while(j<=a){
+        while(j<=x){
             cout<< count;
             count++;
             j=j+1;
