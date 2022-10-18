@@ -1,20 +1,20 @@
    /* 
-        1234
-        1234
-        1234
-        1234
+        123456
+        123456
+        123456
+        123456
  */
  
  #include<iostream>
  using namespace std;
  int main(){
-    int a,b;
-    cin>>a;
+    int x,b;
+    cin>>x;
  
     int i=1;
-    while(i<=a){
+    while(i<=x){
         int j=1;
-        while(j<=a){
+        while(j<=x){
             cout<< j;
             j=j+1;
             
