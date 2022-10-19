@@ -1,13 +1,17 @@
-
+/* 
+   1111
+   2222
+   3333
+         */
 #include <iostream>
 using namespace std;
  int main(){
-    int a; 
-    cin>>a;
+    int b; 
+    cin>>b;
     int k=1;
-    while(k<=a){
+    while(k<=b){
         int l=1;
-        while(l<=a){
+        while(l<=b){
             cout<<"*";
             l=l+1;
         }
