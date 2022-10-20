@@ -16,12 +16,13 @@
         int j=1;
         while(j<=a){
             cout<< j;
-            j=j+1;
+            j+=1;
+        
             
 
         }
         cout<<endl;
-        i=i+1;
+        i+=1;
 
     }
  }
