@@ -8,13 +8,13 @@
  #include<iostream>
  using namespace std;
  int main(){
-    int x,b;
-    cin>>x;
+    int a,b;
+    cin>>a;
  
     int i=1;
-    while(i<=x){
+    while(i<=a){
         int j=1;
-        while(j<=x){
+        while(j<=a){
             cout<< j;
             j=j+1;
             
