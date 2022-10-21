@@ -13,9 +13,9 @@ using namespace std;
         int l=1;
         while(l<=b){
             cout<<"*";
-            l=l+1;
+            l+=1;
         }
         cout<<endl;
-        k=k+1;
+        k+=1;
     }
  }
